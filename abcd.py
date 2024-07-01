@@ -18,3 +18,4 @@ while True:
     else:
         print(f'Куттуктайбыз сиз {guess} санын {san} иретте таптыныз')
         break
+        fhwuefhyuerhguwe hbfyege hegrye hdhjfuhfy7e
